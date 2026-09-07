@@ -1,0 +1,16 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# R session and project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+~$*.xlsx
+
